@@ -1,5 +1,8 @@
 # NeuroData Message
 
+# Header
+Header header
+
 # Device info
 DeviceInfo info
 
