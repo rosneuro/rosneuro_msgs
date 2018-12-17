@@ -9,6 +9,6 @@ DeviceInfo info
 # Device data
 std_msgs/Float32MultiArray eeg		# EEG data
 std_msgs/Float32MultiArray exg		# EXG data
-std_msgs/Float32MultiArray tri		# TRIGGER data
+std_msgs/Int32MultiArray tri		# TRIGGER data
 
 
