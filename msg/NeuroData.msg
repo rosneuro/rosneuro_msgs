@@ -4,7 +4,12 @@
 Header header
 
 # Device info
-DeviceInfo info
+DeviceInfo info_device
+
+# NeuroData info
+NeuroDataInfo info_eeg
+NeuroDataInfo info_exg
+NeuroDataInfo info_tri
 
 # Device data
 std_msgs/Float32MultiArray eeg		# EEG data

@@ -6,10 +6,9 @@ find_package(catkin REQUIRED COMPONENTS roscpp std_msgs message_generation)
 
 SET(CMAKE_BUILD_TYPE RelWithDebInfo)
 
-include_directories(${catkin_INCLUDE_DIRS})
-
 add_message_files(
 	FILES
+	NeuroDataInfo.msg
 	DeviceInfo.msg
 	NeuroData.msg
 )
