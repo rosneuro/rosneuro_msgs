@@ -8,9 +8,15 @@ SET(CMAKE_BUILD_TYPE RelWithDebInfo)
 
 add_message_files(
 	FILES
+	NeuroDataFloat.msg
+	NeuroDataInt32.msg
 	NeuroDataInfo.msg
-	DeviceInfo.msg
-	NeuroData.msg
+	NeuroDataSet.msg
+)
+
+add_service_files(
+  FILES
+  #GetNeuroDataInfo.srv
 )
 
 generate_messages(
