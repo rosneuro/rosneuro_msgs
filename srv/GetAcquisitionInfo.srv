@@ -1,0 +1,17 @@
+---
+bool            result
+
+string device_model
+string device_id
+
+uint16 sampling_rate
+
+uint16 samples
+uint16 eeg_channels
+uint16 exg_channels
+uint16 tri_channels
+
+NeuroDataInfo   ieeg
+NeuroDataInfo   iexg
+NeuroDataInfo   itri
+

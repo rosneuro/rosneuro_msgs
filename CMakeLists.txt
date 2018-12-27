@@ -16,7 +16,7 @@ add_message_files(
 
 add_service_files(
   FILES
-  #GetNeuroDataInfo.srv
+  GetAcquisitionInfo.srv
 )
 
 generate_messages(
