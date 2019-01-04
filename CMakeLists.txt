@@ -12,6 +12,7 @@ add_message_files(
 	NeuroDataInt32.msg
 	NeuroDataInfo.msg
 	NeuroFrame.msg
+	NeuroEvent.msg
 )
 
 add_service_files(
