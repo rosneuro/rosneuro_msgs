@@ -1,4 +1,4 @@
 NeuroDataInfo info
-std_msgs/Int32MultiArray array
+int32[] data
 
 
