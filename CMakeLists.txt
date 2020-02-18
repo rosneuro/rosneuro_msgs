@@ -13,6 +13,7 @@ add_message_files(
 	NeuroDataInfo.msg
 	NeuroFrame.msg
 	NeuroEvent.msg
+	NeuroOutput.msg
 )
 
 add_service_files(
