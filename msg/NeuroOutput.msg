@@ -1,7 +1,10 @@
 # NeuroOutput Message
 
-# Header
+# ROS Header
 Header header
+
+# Neuro header
+NeuroHeader neuroheader
 
 # Output
 # decoder prediction (e.g., probabilities, regression)

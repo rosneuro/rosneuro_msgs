@@ -1,7 +1,11 @@
 # NeuroFrame Message
 
-# Header
+# ROS Header
 Header header
+
+# Neuro header
+NeuroHeader neuroheader
+
 
 # Sampling rate
 uint16 sr
