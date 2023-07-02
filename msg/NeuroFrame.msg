@@ -3,6 +3,9 @@
 # Header
 Header header
 
+# NeuroHeader
+NeuroHeader neuroheader
+
 # Sampling rate
 uint16 sr
 

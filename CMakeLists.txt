@@ -11,8 +11,10 @@ add_message_files(
 	NeuroDataFloat.msg
 	NeuroDataInt32.msg
 	NeuroDataInfo.msg
+	NeuroHeader.msg
 	NeuroFrame.msg
 	NeuroEvent.msg
+	NeuroDecoder.msg
 	NeuroOutput.msg
 )
 
