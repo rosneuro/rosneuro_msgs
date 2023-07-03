@@ -32,10 +32,13 @@ catkin_package(
   INCLUDE_DIRS 
   LIBRARIES 
   CATKIN_DEPENDS
-  	roscpp
 	std_msgs
 	message_runtime
   DEPENDS
 )
+
+
+
+
 
 
