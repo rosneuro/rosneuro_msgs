@@ -1,3 +1,3 @@
 string type
 string path
-int32[] classes
+uint32[] classes
